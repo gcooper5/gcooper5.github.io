@@ -1,0 +1,102 @@
+<!DOCTYPE HTML>
+<html lang='en'>
+
+    <head>
+            <meta charset="uft-8">
+            <meta name= "viewport" content ="width=device-width, initial-scale=1"/>
+            <meta name="keywords" content="maps, cartography"/>
+
+                    <title>Portfolio|Gillian</title>
+
+
+            <link rel="stylesheet" href="css/bootstrap.min.css">
+            <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+            <link rel="stylesheet" href="css/style.css">
+    </head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand page-scroll" href="file:///C:/Users/Gillian/Desktop/myportfolio/index1.html">
+                    <i class="fa fa-play-circle"></i>  <span class="text-left">Home</span>
+                </a>
+            </div>
+
+            
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+                <ul class="nav navbar-nav">
+ 
+                    <li>
+                        <a class="page-scroll" href="file:///C:/Users/Gillian/Desktop/myportfolio/about.html">About</a>
+                    </li>
+                     <li>
+                        <a class="page-scroll" href="file:///C:/Users/Gillian/Desktop/myportfolio/colletion.html">Portfolio</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="file:///C:/Users/Gillian/Desktop/myportfolio/Portfolio.html">Resume</a>
+                    </li>
+                   
+        </div>
+
+    	</nav>
+                    
+                  
+                </ul>
+            </div>
+    			</div>
+        </div>
+        </div>
+    	</div>
+</nav>
+</div>
+</body>
+
+<body>
+    <div class="assignments">
+   <h1 class="brand-heading"> Projects!</h1>
+<h1>Cartography</h1>
+            <div class="row">
+                    <div class="col-md-4 col-xs-12"style="size: 250px">
+                    <a href="https://api.mapbox.com/v4/gcooper5.o4af09og/page.html?access_token=pk.eyJ1IjoiZ2Nvb3BlcjUiLCJhIjoiY2lmeTlpOXphNHoxdnR0bTFyaGMxMmhkbSJ9.kI62ji34-mng1Jp6F-JmGQ#2/43.5/14.3" class="thumbnail">
+                        <img src="assets/lego1.jpg" alt ="lego map"/>
+                    </a>
+                    </div>
+                    <div class="col-md-4 col-xs-12"style="size: 250px">
+                    <a href="file:///C:/Users/Gillian/Desktop/myportfolio/launchmap.html" class="thumbnail">
+                                <img src="assets/sheep.jpg" alt ="sheep map">
+                    </a>
+                    </div>
+                    <div class="col-md-4 col-xs-12" style="size: 200px">
+                    <a href="file:///C:/Users/Gillian/Desktop/myportfolio/terrain.html" class="thumbnail">
+                                <img src="assets/terraincrop.jpg" alt ="terrain map">
+                    </a>
+                    </div>
+            </div>
+    </div>
+
+
+    <div class="assignments">
+<h1>Projects</h1>
+            <div class="row">
+                    <div class="col-md-6 col-xs-12">
+                    <a href="file:///C:/Users/Gillian/Desktop/myportfolio/ethiopia%20project.html" class="thumbnail">
+                                <img src="assets/ethiopia.jpg" alt ="portfolio image">
+                    </a>
+                    </div>
+                    <div class="col-md-6 col-xs-12">
+                    <a href="file:///C:/Users/Gillian/Desktop/myportfolio/photographs.html" class="thumbnail">
+                                <img src="assets/kittens.jpg" alt ="portfolio image">
+                    </a>
+                    </div>
+            </div>
+    </div>
+
+
+    </body>
+
+
