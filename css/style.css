@@ -89,10 +89,20 @@ img {
     color: #878CA8;
     text-align: center;
     font-size: 1000;
-    font-size: 100pt;
+    font-size: 10pt;
 
 }
-
+.intro-about{
+    display: table;
+    width: 100%;
+    height: 50%;
+    padding: 15px 0px 120px 0px;
+    text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
 .intro {
     display: table;
     width: 100%;
