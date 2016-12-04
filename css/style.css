@@ -29,7 +29,14 @@
     padding-left: 80px;
 }
 
-
+.resume-container{
+    /*    padding-top: 35px;*/
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 80px;
+    font-family: Corbel;
+    font-size: 14;
+}
 .container {
 /*    padding-top: 35px;*/
     padding-right: 30px;
@@ -119,7 +126,8 @@ img {
     background-color: #0000;
 } */
 
-#header{    margin: 0 0 35px;
+#header{  
+    margin: 0 0 0px;
     color:white;
     font-variant: bold;
     text-align: center;
@@ -132,7 +140,16 @@ img {
     text-align: center;
     padding-top: 100px;
 }
+.footer{
+    margin: 0 0 35px;
+    color:white;
+    font-variant: bold;
+    text-align: center;
+    font-weight: 700;
+    background-color: #4d4d4d;
+    float: bottom;
 
+}
 h1{   margin: 0 0 35px;
     color:black;
     font-variant: bold;
