@@ -29,6 +29,7 @@
     padding-left: 80px;
 }
 
+
 .resume-container{
     /*    padding-top: 35px;*/
     padding-right: 30px;
@@ -37,6 +38,7 @@
     font-family: Corbel;
     font-size: 14;
 }
+
 .container {
 /*    padding-top: 35px;*/
     padding-right: 30px;
@@ -44,6 +46,18 @@
     padding-left: 80px;
     font-family: Corbel;
     font-size: 14;
+}
+.aboutme {
+    padding-top: 100px;
+/*    padding-right: 30px;
+    padding-bottom: 0px;
+    padding-left: 80px;*/
+    font-family: Corbel;
+    font-size: 14;
+    text-align: center;
+}
+.background{
+    background-size: cover;
 }
 .assignments{
     padding-top: 100px;
@@ -76,6 +90,8 @@ img {
     width: 100%;
     height: 50%;
     padding: 15px 0px 120px 0px;
+<<<<<<< HEAD
+=======
     text-align: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -104,12 +120,31 @@ img {
     width: 100%;
     height: 50%;
     padding: 15px 0px 120px 0px;
+>>>>>>> origin/master
     text-align: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
 }
+.intro-blurb{padding-top: 10px;
+    padding-bottom: 0px;
+    font-family: Corbel;
+    font-size: 12;
+    color: #fff;
+}
+
+
+.intro-body{
+    font-family: Corbel;
+    font-weight: bold;
+    color: #878CA8;
+    text-align: center;
+    font-size: 1000;
+    font-size: 100pt;
+
+}
+
 .intro {
     display: table;
     width: 100%;
@@ -122,16 +157,45 @@ img {
     -o-background-size: cover;
     background-color: #4d4d4d;
 }
+<<<<<<< HEAD
+
+.about-blurb{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 700px;
+    font-family: Corbel;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    font-size: 14pt;
+
+}
+
 /*body {
     background-color: #0000;
 } */
 
-#header{  
-    margin: 0 0 0px;
+#header{    margin: 0 0 35px;
+
+
     color:white;
     font-variant: bold;
     text-align: center;
     font-weight: 700;
+}
+.brand-heading{    
+    margin: 0 0 35px;
+    color:black;
+    font-variant: bold;
+    text-align: center;
+    padding-top: 100px;
+}
+.about-heading{
+    color:black;
+    font-variant: bold;
+    text-align: center;
+    padding-top: 300px; 
+
 }
 .brand-heading{    
     margin: 0 0 35px;
@@ -150,6 +214,11 @@ img {
     float: bottom;
 
 }
+h1{   margin: 0 0 35px;
+    color:black;
+    font-variant: bold;
+    text-align: center;
+
 h1{   margin: 0 0 35px;
     color:black;
     font-variant: bold;
