@@ -2,14 +2,14 @@
 ///////nav bar////////////
 ////////////////////////*/
 
-
-.navbar-fixed-top {
-    background-color: #4d4d4d;
+/*
+#navcontainer {
+    background-color: #cbd1db;
     padding-top: 10px;
-    color:white;
-}
+    color:white;*/
 
-/*left side nav bar text*/
+/*
+left side nav bar text
 .navbar-brand {
     font-size: 18;
     color:white;
@@ -17,7 +17,8 @@
 
 .navbar-right{
     padding-right: 100px;
-}
+}*/
+
 
 /*right hand side navbar text*/
 .page-scroll{
@@ -47,6 +48,11 @@
     font-family: Corbel;
     font-size: 14;
 }
+
+.muted-credit{
+    padding-bottom: 20px;
+}
+
 .aboutme {
     padding-top: 100px;
 /*    padding-right: 30px;
@@ -106,27 +112,27 @@ img {
 
 
 .intro-body{
-        font-family: Corbel;
+    font-family: Corbel;
     font-weight: bold;
     color: #878CA8;
     text-align: center;
     font-size: 1000;
     font-size: 10pt;
+    padding-top: 100px;
 
 }
 .intro-about{
     display: table;
     width: 100%;
     height: 50%;
-    padding: 15px 0px 120px 0px;
+/*    padding: 15px 0px 120px 0px;*/
     text-align: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
 }
-.intro-blurb{padding-top: 10px;
-    padding-bottom: 0px;
+.intro-blurb{
     font-family: Corbel;
     font-size: 12;
     color: #fff;
@@ -138,7 +144,7 @@ img {
     font-weight: bold;
     color: #878CA8;
     text-align: center;
-    font-size: 1000;
+/*    font-size: 1000;*/
     font-size: 100pt;
 
 }
@@ -159,10 +165,10 @@ img {
 .about-blurb{
     padding-left: 100px;
     padding-right: 100px;
-    padding-top: 700px;
-    font-family: Corbel;
-    font-weight: bold;
-    color: white;
+/*    padding-top: 200px;
+*/    font-family: Corbel;
+/*    font-weight: bold;
+*/    color: black;
     text-align: center;
     font-size: 14pt;
 
@@ -173,8 +179,6 @@ img {
 } */
 
 #header{    margin: 0 0 35px;
-
-
     color:white;
     font-variant: bold;
     text-align: center;
@@ -185,13 +189,13 @@ img {
     color:black;
     font-variant: bold;
     text-align: center;
-    padding-top: 100px;
+/*    padding-top: 100px;*/
 }
 .about-heading{
     color:black;
     font-variant: bold;
     text-align: center;
-    padding-top: 300px; 
+ /*   padding-top: 300px; */
 
 }
 .brand-heading{    
@@ -199,18 +203,19 @@ img {
     color:black;
     font-variant: bold;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 70px;
 }
-.footer{
-    margin: 0 0 35px;
-    color:white;
-    font-variant: bold;
-    text-align: center;
-    font-weight: 700;
-    background-color: #4d4d4d;
-    float: bottom;
 
+#footer{
+    font-variant: bold;
+    text-align: left;
+    font-weight: 700;
+    background-color: #b4bbc6;
+    color:white;
+    float: bottom;
+    width: 100%;
 }
+
 h1{   margin: 0 0 35px;
     color:black;
     font-variant: bold;
@@ -235,12 +240,13 @@ h6 {
     font-family: Corbel;
     letter-spacing: 1px;
 
-page-top{
+
+.page-top {
     margin-bottom: 0;
     border-bottom: 1px solid rgba(255,255,255,.3);
     text-transform: uppercase;
     font-family: Corbel;
-    background-color: #000;
+    background-color: #cbd1db;
 }
 
 
