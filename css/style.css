@@ -2,6 +2,11 @@
 ///////nav bar////////////
 ////////////////////////*/
 
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Lato:i');
+
+
+
 /*
 #navcontainer {
     background-color: #cbd1db;
@@ -20,6 +25,13 @@ left side nav bar text
 }*/
 
 
+/*////////////////standard components/////////////////////
+
+
+
+
+
+
 /*right hand side navbar text*/
 .page-scroll{
     color:white;
@@ -31,24 +43,25 @@ left side nav bar text
 }
 
 
-.resume-container{
-    /*    padding-top: 35px;*/
-    padding-right: 30px;
-    padding-bottom: 30px;
-    padding-left: 80px;
-    font-family: Corbel;
-    font-size: 14;
-}
+
 
 .container {
 /*    padding-top: 35px;*/
     padding-right: 30px;
     padding-bottom: 0px;
     padding-left: 80px;
-    font-family: Corbel;
+    font-family: 'Lato', sans-serif;
     font-size: 14;
 }
 
+.footer-container {
+/*    padding-top: 35px;*/
+    padding-right: 30px;
+    padding-bottom: 0px;
+    padding-left: 80px;
+    font-family: 'Lato', sans-serif;
+    font-size: 14;
+}
 .muted-credit{
     padding-bottom: 20px;
 }
@@ -58,7 +71,7 @@ left side nav bar text
 /*    padding-right: 30px;
     padding-bottom: 0px;
     padding-left: 80px;*/
-    font-family: Corbel;
+    font-family: 'Lato', sans-serif;
     font-size: 14;
     text-align: center;
 }
@@ -70,15 +83,26 @@ left side nav bar text
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 80px;
-    font-family: Corbel;
+    font-family: 'Lato', sans-serif;
     font-size: 14;
 }
 
-li {
-    font-family: Corbel;
-    font-size: 14;  
+.resume-container{
+    /*    padding-top: 35px;*/
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 80px;
+    font-family: 'Lato', sans-serif; 
+    font-size: 14;
 
 }
+
+li {
+    font-family: 'Lato', sans-serif;
+    font-size: 14;  
+}
+
+
 img {
   border: 0;
 }
@@ -88,7 +112,7 @@ img {
     padding-right: 30px;
     padding-bottom: 0px;
     padding-left: 80px;
-    font-family: Corbel;
+    font-family: 'Lato', sans-serif;
     font-size: 14;}
 
 .intromain {
@@ -105,14 +129,14 @@ img {
 }
 .intro-blurb{padding-top: 10px;
     padding-bottom: 0px;
-    font-family: Corbel;
+    font-family: 'Lato', sans-serif;
     font-size: 12;
     color: #fff;
 }
 
 
 .intro-body{
-    font-family: Corbel;
+    font-family: 'Lato', sans-serif;
     font-weight: bold;
     color: #878CA8;
     text-align: center;
@@ -132,15 +156,16 @@ img {
     background-size: cover;
     -o-background-size: cover;
 }
+
 .intro-blurb{
-    font-family: Corbel;
+    font-family: 'Lato', sans-serif;
     font-size: 12;
     color: #fff;
 }
 
 
 .intro-body{
-    font-family: Corbel;
+    font-family: 'Lato', sans-serif;
     font-weight: bold;
     color: #878CA8;
     text-align: center;
@@ -166,7 +191,7 @@ img {
     padding-left: 100px;
     padding-right: 100px;
 /*    padding-top: 200px;
-*/    font-family: Corbel;
+*/    font-family: 'Lato', sans-serif;
 /*    font-weight: bold;
 */    color: black;
     text-align: center;
@@ -235,7 +260,7 @@ h5,
 h6 {
     margin: 0 0 15px;
 /*    text-transform: uppercase;*/
-    font-family: Corbel;
+    font-family: 'Lato', sans-serif;
     letter-spacing: 1px;
 
 
@@ -243,7 +268,7 @@ h6 {
     margin-bottom: 0;
     border-bottom: 1px solid rgba(255,255,255,.3);
     text-transform: uppercase;
-    font-family: Corbel;
+    font-family: 'Lato', sans-serif;
     background-color: #cbd1db;
 }
     
